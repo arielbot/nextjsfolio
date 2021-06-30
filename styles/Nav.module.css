@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap');
+.container {margin: 0 20px;font-family: 'Montserrat', sans-serif;}
+.wrapper {display: flex;justify-content: space-between;max-width: 960px;width: 100%;margin: 20px auto;}
+  .linkContainer a {margin: 0 10px;}
+  .linkContainer a:hover {text-decoration: underline;}
