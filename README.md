@@ -2,4 +2,4 @@ Based on a [Next.js](https://nextjs.org/) project bootstrapped with [`create-nex
 
 ## Basic Website
 
-This is a portfolio website I am using to build out components and test differently styling libraries like tailwindcss. A work in progress.
+This is a portfolio website I am using to build out components and test different styling libraries like tailwindcss. A work in progress.
