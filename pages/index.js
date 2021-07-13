@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import Hero from '../components/Hero'
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
         <title>Ariel Adams || Portfolio</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Hero />
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
