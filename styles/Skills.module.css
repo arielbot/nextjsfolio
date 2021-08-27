@@ -6,11 +6,11 @@
 .wrapper {
   margin: 30px 20px 10px;
 }
-.h3 {
-  font-size: 40px;
-  margin: 30px auto;
-  text-align: center;
-}
+  .wrapper h3 {
+    font-size: 40px;
+    margin: 30px auto;
+    text-align: center;
+  }
 .flex {
   display: flex;
 }
