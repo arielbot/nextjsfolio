@@ -14,4 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
-.hidden {display: none !important;}
+.hidden {
+  display: none !important;
+}
+
+/* flex */
+.flexContainer {
+  display: flex;
+}
+
+/* positioning */
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+

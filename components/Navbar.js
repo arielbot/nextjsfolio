@@ -19,7 +19,7 @@ const Navbar = () => {
           </div>
           <div className={styles.linkContainer}>
             <Link href="/"><a>Home</a></Link>
-            <Link href="/about"><a>About</a></Link>
+            <Link href="#about"><a>About</a></Link>
             <Link href="/"><a>Contact</a></Link>
           </div>
         </div>

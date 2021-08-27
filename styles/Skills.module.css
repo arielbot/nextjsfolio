@@ -1,0 +1,42 @@
+.container {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+.wrapper {
+  margin: 30px 20px 10px;
+}
+.h3 {
+  font-size: 40px;
+  margin: 30px auto;
+  text-align: center;
+}
+.flex {
+  display: flex;
+}
+.bgGray {
+  background-color: #d3d3d3;
+  height: 30px;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.skillFill{
+  background-color: #cbc4e2;
+}
+.ninety {
+  width: 90%;
+  height: 100%;
+}
+.skillTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  background-color: #6888be;
+  color: #fff;
+  width: 75px;
+  height: 100%;
+}

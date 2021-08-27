@@ -159,6 +159,27 @@ sup {
 }
 
 /*
+Flex Properties
+============
+*/
+
+.flexCenter {
+  justify-content: center;
+}
+
+.flexAround {
+  justify-content: space-around;
+}
+
+.flexCol {
+  flex-direction: column;
+}
+
+.flexRow {
+  flex-direction: row;
+}
+
+/*
 Tabular data
 ============
 */
