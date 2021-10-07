@@ -19,7 +19,8 @@ const Navbar = () => {
           </div>
           <div className={styles.linkContainer}>
             <Link href="/"><a>Home</a></Link>
-            <Link href="#about"><a>About</a></Link>
+            <Link href="#skills"><a>Skills</a></Link>
+            <Link href="#projects"><a>Projects</a></Link>
             <Link href="/"><a>Contact</a></Link>
           </div>
         </div>
@@ -38,7 +39,8 @@ const Navbar = () => {
           </div>
           <div className={`${styles.linkContainer} ${active ? '' : 'hidden'}`}>
             <Link href="/"><a>Home</a></Link>
-            <Link href="/about"><a>About</a></Link>
+            <Link href="#skills"><a>Skills</a></Link>
+            <Link href="#projects"><a>Projects</a></Link>
             <Link href="/"><a>Contact</a></Link>
           </div>
         </div>
